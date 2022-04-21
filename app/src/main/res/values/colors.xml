@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="textview">#FFFFFF</color>
+    <color name="view">#DCDCDC</color>
+    <color name="toolbar_color">#ffffff</color>
+    <color name="navigation_bar_icon_tint">#FFFFFF</color>
+    <color name="navigation_bar_text_color">#FFFFFF</color>
+    <color name="navigation_bar_background">#ffffff</color>
+    <color name="card_view_background">#535A73</color>
+    <color name="menu_btn">#000000 </color>
+    <color name="night_bnt">#000000</color>
+    <color name="shadow">#5B9E9E9E</color>
+    <color name="line">#B98E8E8E</color>
+    <color name="drawable_color">#FFFFFF</color>
+</resources>

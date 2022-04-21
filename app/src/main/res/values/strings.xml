@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Oliy matematika</string>
+    <string name="title_activity_data">Oliy matematika</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Mirzayev Akramjon</string>
+    <string name="gmail">+998 91 477 89 09</string>
+
+    <string name="dev_name">Boymatov Mexrojiddin</string>
+    <string name="dev_gmail">boymatovmexrojiddin@gmail.com</string>
+
+
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Bosh sahifa</string>
+    <string name="menu_gallery">Mundarija</string>
+    <string name="menu_slideshow">Dastur haqida</string>
+    <string name="search">Search</string>
+</resources>
